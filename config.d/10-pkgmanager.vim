@@ -7,6 +7,7 @@ endif
 call plug#begin('$HOME/.config/nvim/packages')
 
 Plug 'tpope/vim-sensible'
+Plug 'isobit/vim-caddyfile'
 Plug 'rking/ag.vim'
 Plug 'mhinz/vim-startify'
 Plug 'junegunn/vim-easy-align'
