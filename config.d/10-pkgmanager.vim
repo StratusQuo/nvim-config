@@ -16,7 +16,7 @@ Plug 'pearofducks/ansible-vim'                                                  
 Plug 'hashivim/vim-terraform'                                                        |" Syntax highlighting, formatting, and navigation for Terraform files
 Plug 'cespare/vim-toml'                                                              |" Syntax highlighting for TOML configuration files
 Plug 'rhysd/vim-clang-format'                                                        |" Integrates clang-format for automatic C/C++ code formatting
-Plug 'tjdevries/ocaml.nvim', {'do': ':lua require("ocaml").update()'}                |" OCaml LSP support, syntax highlighting, formatting, and more
+Plug 'tjdevries/ocaml.nvim', {'do': ':lua require''ocaml''.update()'}                |" OCaml LSP support, syntax highlighting, formatting, and more
 Plug 'mrcjkb/haskell-tools.nvim'                                                     |" Integrated Haskell development tooling for Neovim
 Plug 'vhda/verilog_systemverilog.vim'                                                |" Syntax highlighting for Verilog and SystemVerilog
 Plug 'isobit/vim-caddyfile'                                                          |" Syntax highlighting for Caddy web server configuration files
